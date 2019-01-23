@@ -1,2 +1,2 @@
 # AWS-SQS
-AWS SQS simple code snippets in C# get you in the fast lane
+AWS SQS simple code snippets in C# to get you in the fast lane
